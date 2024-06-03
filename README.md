@@ -10,8 +10,6 @@ This project aims to predict whether a student is likely to develop a drug addic
 - [Web Application](#web-application)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
