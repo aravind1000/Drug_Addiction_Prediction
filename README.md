@@ -1,4 +1,4 @@
-# Student Drug Addiction Prediction
+# Drug Addiction Prediction
 
 This project aims to predict whether a student is likely to develop a drug addiction based on various factors such as age, gender, academic performance, attendance, social influence, behavioral issues, family background, and stress level. The prediction is made using a logistic regression model.
 
